@@ -1,0 +1,99 @@
+id: e2eda356b02d4173927d0e723fbcebf3
+annotation_type: Language
+revision: '00001'
+annotations:
+  fe73a58acf2f43e3bd68a9df4e7cc867:
+    span:
+      start: 0
+      end: 649
+    language: en
+  f95377b2b61543d191ca2d31a34eca23:
+    span:
+      start: 684
+      end: 941
+    language: en
+  bc67b85f0d2d4d419127b45e03dc0602:
+    span:
+      start: 972
+      end: 1505
+    language: en
+  b81980d66de549dfbab497ce4e24ca31:
+    span:
+      start: 18234
+      end: 18272
+    language: en
+  02cf2d032f7446e1aeed19b2119494e7:
+    span:
+      start: 18803
+      end: 18945
+    language: en
+  be03a559e6b14f859ad8c28ebd7880f4:
+    span:
+      start: 19092
+      end: 19223
+    language: en
+  a87d70278d1e454d9e891ee546f629b9:
+    span:
+      start: 20330
+      end: 20462
+    language: en
+  ced872e6c96f4dbabe6a9af4877ed17e:
+    span:
+      start: 24434
+      end: 24581
+    language: en
+  783e9a63f0984def83937bd2b39cc092:
+    span:
+      start: 62067
+      end: 62204
+    language: en
+  3214554e0a5d4b939d0aa25e917922f1:
+    span:
+      start: 73891
+      end: 74018
+    language: en
+  e66bf46d4ff24eee9fe19eb256470e97:
+    span:
+      start: 89208
+      end: 89313
+    language: en
+  a49b572ac7ad4d3bae0436981b45409f:
+    span:
+      start: 144346
+      end: 144493
+    language: en
+  92a6bfc6f1a8496ba88d5fa702de580e:
+    span:
+      start: 148670
+      end: 148818
+    language: en
+  638beaf7f6c940dab582e4005945cc3c:
+    span:
+      start: 163305
+      end: 163441
+    language: en
+  c9f154ab1a864008add694e17988fcfe:
+    span:
+      start: 180111
+      end: 180272
+    language: en
+  c90be30c95c04f38b65874e043c7a33c:
+    span:
+      start: 183631
+      end: 183764
+    language: en
+  6c5a0690f4ff47e998c5cbe108c505f2:
+    span:
+      start: 185621
+      end: 185761
+    language: en
+  6e3803fc4ed2434a85c220423134ea17:
+    span:
+      start: 186834
+      end: 186997
+    language: en
+  c3d50c57135441bbb54242d05edd30ce:
+    span:
+      start: 187466
+      end: 187598
+    language: en
